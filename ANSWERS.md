@@ -109,3 +109,5 @@ https://gitlab.com/kevin5450406/admco20232024ex9.git
 https://gitlab.com/kevin5450406/admco20232024ex10.git
 #### Exercice 11
 https://gitlab.com/kevin5450406/admco20232024ex11.git
+#### Exercice 12
+https://gitlab.com/kevin5450406/admco20232024ex12.git
